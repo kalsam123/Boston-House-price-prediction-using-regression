@@ -5,4 +5,4 @@ These files contain the entire project code that i have implemented for the mach
 app.py is the code for running the Web API of the final model.
 
 Run:
-Download all the files in a singel folder. Run the file app.py.
+Download all the files in a single folder. Run the file app.py.
