@@ -1,5 +1,5 @@
 # Boston-House-price-prediction-using-regression
-This is a  Machine learning project on house price prediction.
+This is a Applied Machine learning project on house price prediction using Boston housing dataset .
 
 The folder 'notebooks' contains files linearRegression.ipynb , pymachineproject.ipynb ,RandomForrestRegressor.ipynb.
 These files contain the entire project code that i have implemented for the machine learning models linear regression,Xgboost regression,Randomforrest regression trained on the boston dataset respectively.
