@@ -9,7 +9,7 @@ import numpy as np
 
 
 app = Flask(__name__)
-reg1 =joblib.load('C:/Users/samee/PycharmProjects/machine Learning/Xgb.pkl')
+reg1 =joblib.load('Xgb.pkl')
 cols = ['LSTAT','RM','PTRATIO','INDUS']
 
 
