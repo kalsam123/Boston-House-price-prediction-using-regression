@@ -9,9 +9,13 @@ The File app.py contains the code, for running the Web API of the final model ('
 
 Packages Required for Running the Web API:
 flask
+
 xgboost
+
 pandas
+
 joblib
+
 numpy
 
 
